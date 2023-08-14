@@ -1,0 +1,28 @@
+.button {
+  border: none;
+  padding: 1rem 3.5rem;
+  background-color: var(--color-primary);
+  color: white;
+  border-radius: 5rem;
+  font-size: 1rem;
+  transition: all 0.3s;
+  box-shadow: var(--default-shadow);
+  @media only screen and (max-width: 655px) {
+    width: 100%;
+    margin-top: 1rem;
+}
+@media only screen and (max-width: 400px) {
+    padding: 0.6rem 3.5rem;
+    font-size: 0.8rem;
+    margin-top: .8rem;
+  }
+  &:hover {
+    cursor: pointer;
+    background-color: var(--color-primary-light);
+    transform: translateY(-.5rem);
+}
+&:active{
+    transform: translateY(-.2rem);
+
+}
+}

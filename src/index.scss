@@ -1,0 +1,27 @@
+:root {
+  // // Colors
+
+  /// Primary
+
+  --color-primary: hsl(223, 87%, 63%);
+  --color-primary-light: hsl(222, 70%, 70%);
+  --color-primary-lighter: hsl(223, 100%, 88%);
+
+  /// Secondary
+
+  --color-error: hsl(354, 100%, 66%);
+
+  /// Neutral
+
+  --color-grey-light: hsla(0, 0%, 59%, 0.6);
+  --color-grey: hsl(0, 0%, 59%);
+  --color-grey-dark: hsl(209, 33%, 12%);
+
+  // // Shadows
+  --default-shadow: 0 .1rem 1rem var(--color-grey-light);
+}
+
+body {
+  margin: 0;
+  font-family: 'Libre Franklin', sans-serif;
+}
