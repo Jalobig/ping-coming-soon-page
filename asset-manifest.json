@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ping-coming-soon-page/static/css/main.5a1d043d.css",
+    "main.js": "/ping-coming-soon-page/static/js/main.bd7847b9.js",
+    "static/js/787.2874767b.chunk.js": "/ping-coming-soon-page/static/js/787.2874767b.chunk.js",
+    "static/media/illustration-dashboard.png": "/ping-coming-soon-page/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "static/media/logo.svg": "/ping-coming-soon-page/static/media/logo.7e09371f05c7e00fddccee34a9deac87.svg",
+    "static/media/instagram.svg": "/ping-coming-soon-page/static/media/instagram.9bd6921d0e6f682ef39494609d13cb9e.svg",
+    "index.html": "/ping-coming-soon-page/index.html",
+    "static/media/twitter.svg": "/ping-coming-soon-page/static/media/twitter.035769040baf61ae3c701538904ae447.svg",
+    "static/media/facebook.svg": "/ping-coming-soon-page/static/media/facebook.69afda5b345b8d4b3420e7dc129ca25d.svg",
+    "main.5a1d043d.css.map": "/ping-coming-soon-page/static/css/main.5a1d043d.css.map",
+    "main.bd7847b9.js.map": "/ping-coming-soon-page/static/js/main.bd7847b9.js.map",
+    "787.2874767b.chunk.js.map": "/ping-coming-soon-page/static/js/787.2874767b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1d043d.css",
+    "static/js/main.bd7847b9.js"
+  ]
+}
